@@ -1,6 +1,6 @@
-# Register And Login Website
+# Register And Login Page
 
-## This is Very Simple website About Register And Login
+## This is Very Simple Page About Register And Login
 
 
 ## Features
